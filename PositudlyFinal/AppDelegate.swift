@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  PositudlyFinal
+//  Positudly
 //
-//  Created by Jake Dotts on 2/27/16.
-//  Copyright © 2016 Jake Dotts. All rights reserved.
+//  Created by Jake Dotts on 2/25/16.
 //
 
 import UIKit
